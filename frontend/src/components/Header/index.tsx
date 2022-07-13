@@ -1,5 +1,5 @@
-import icon from '../../assets/img/logo.svg'
-import './styles.css'
+import icon from '../../assets/img/logo.svg';
+import './styles.css';
 
 function HeaderDsMeta() {
     return (
@@ -17,4 +17,4 @@ function HeaderDsMeta() {
     )
 }
 
-export default HeaderDsMeta
+export default HeaderDsMeta;
